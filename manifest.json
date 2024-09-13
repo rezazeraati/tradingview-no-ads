@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "TradingView NoAds",
+    "name": "Ad-free TradingView",
     "version": "0.1",
-    "description": "Enjoy ad free browsing experience with TradingView.",
+    "description": "Enjoy ad-free browsing experience with TradingView",
     "action": {
 	    "default_icon": {
         "128": "icon-128.png"
